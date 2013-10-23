@@ -1,0 +1,9 @@
+[
+       {"name":"koffie", "aantal":134},
+		{"name":"espresso", "aantal":88},
+		{"name":"cappuchino", "aantal":31},
+		{"name":"warme choco", "aantal":4},
+		{"name":"warmwater", "aantal":2},
+       {"name":"overig", "aantal":20}
+]
+

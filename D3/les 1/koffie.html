@@ -1,0 +1,89 @@
+<!doctype html>
+
+<head>
+
+<title>Naamloos document</title>
+<link rel="stylesheet" href= "koffie.css">
+
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+<div id="left">
+<p>Koffie automaat links</p>
+</div>
+<div id="right">
+<p>Koffie automaat rechts</div>
+<div id="bron">
+<p>Bron: Eric driessen</p>
+</div>
+
+<script>
+// Json bestand wordt ingeladen, in plaats van de json waardes over te typen en als array in de code te zetten. 
+
+	
+	d3.json("koffie.json", function(data){
+		
+	/*	var depthColors = d3.scale.linear()
+            .domain([0, 50])
+            .range(["#A09AFF", "#A09AFF"]);*/
+			
+			
+		var canvas= d3.select("#left").append("svg")
+			.attr("width",430)
+			.attr("height",250)
+			
+			canvas.selectAll("rect")
+			.data(data)
+			.enter()
+				.append("rect")
+				.attr("width", function(d) {return d.aantal *10;})
+				.attr("height",28) // de breedte van de staafdiagram
+				.attr("y", function (d,i){ return i*30}) //afstand tussen de staafdiagrammen.
+				.attr("fill", "#CBA768 ");	
+				
+				canvas.selectAll("text")
+				.data(data)
+				.enter()
+					.append("text")
+					.attr("fill","#DFDCD0")
+					.attr("y",function (d, i) {return i*30+15;}) // y zorg voor de plaats van de tekst.(helft van de hoogte)
+					//.attr("x",function(d,i){return d.age*10+10;})
+					.text(function (d) { return d.name;})
+					
+	})
+
+</script>
+
+<script>
+	d3.json("koffie-recht.json", function(data){
+		
+			
+			
+		var canvas= d3.select("#right").append("svg")
+			.attr("width",430)
+			.attr("height",250)
+			
+			canvas.selectAll("rect")
+			.data(data)
+			.enter()
+				.append("rect")
+				.attr("width", function(d) {return d.aantal *10;})
+				.attr("height",28) // de breedte van de staafdiagram
+				.attr("y", function (d,i){ return i*30}) //afstand tussen de staafdiagrammen.
+				.attr("fill", "#574031 ");	
+				
+				canvas.selectAll("text")
+				.data(data)
+				.enter()
+					.append("text")
+					.attr("fill","#DFDCD0")
+					.attr("y",function (d, i) {return i*30+15;}) // y zorg voor de plaats van de tekst.
+					.text(function (d) { return d.name;})
+					
+	})
+</script>
+
+
+</body>
+</html>

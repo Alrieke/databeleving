@@ -1,0 +1,38 @@
+body
+{
+	background-color:#687663;
+	margin:0 auto;
+	width:960px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+
+}
+	
+#left
+{
+	float:left;
+	margin-top:50px;
+	margin-left:20px;
+	
+}
+
+#right
+{
+	float:left;
+	margin-top:50px;
+	margin-left:50px;
+	
+}
+
+p
+{
+	color:#DFDCD0;
+	font-size:24px;
+
+}
+
+#bron p
+{
+	float:right;
+	font-size:12px;
+}

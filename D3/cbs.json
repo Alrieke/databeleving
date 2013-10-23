@@ -1,0 +1,2803 @@
+/**ExporttoJSONpluginforPHPMyAdmin@version0.1*///Database'csv_db'//csv_db.table1[
+    [{
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 11
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 14
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 12
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 12
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Ophangen, verwurgen, verstikken",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 14
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 18
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 17
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 18
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 5
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 5
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 5
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 6
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Doodslaan, schoppen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 37
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 41
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 33
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 49
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 9
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 11
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 6
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 17
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 11
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 14
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 8
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 8
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 11
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 6
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 11
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 5
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 6
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 5
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Vuurwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 57
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 53
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 61
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 43
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 5
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 16
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 5
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 11
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 11
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 16
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 14
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 15
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 7
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 11
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 10
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 12
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 9
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 9
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 10
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 6
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 12
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 8
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Steekwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 12
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 7
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 10
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 12
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Slagwapen",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 12
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 14
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 8
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 5
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Overige wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 7
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 7
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Totaal alle leeftijden",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 4
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "Jonger dan 15 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "15 tot 20 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "20 tot 30 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "30 tot 40 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "40 tot 50 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 2
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "50 tot 60 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": 3
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "60 tot 70 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "70 tot 80 jaar",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2008,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2009,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2010,
+        "Waarde eenheid": "aantal",
+        "Waarde": "-"
+    },
+    {
+        "Onderwerpen_1": "Moord en doodslag",
+        "Onderwerpen_2": "Wijze van moord en doodslag",
+        "Onderwerpen_3": "Onbekende wijze van moord en doodslag",
+        "Geslacht": "Totaal mannen en vrouwen",
+        "Leeftijd": "80 jaar of ouder",
+        "Perioden": 2011,
+        "Waarde eenheid": "aantal",
+        "Waarde": 1
+    }
+]
