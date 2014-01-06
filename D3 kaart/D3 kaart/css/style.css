@@ -1,0 +1,23 @@
+body
+{
+	background-color:#999999;
+	margin:auto;
+	width:1024px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+
+header{
+	color:#114956;
+	margin-top:50px;
+	text-align:center;
+	font-size:30px;
+
+}
+path:hover {
+	
+	cursor: pointer;;
+	opacity:0.5;
+}
+

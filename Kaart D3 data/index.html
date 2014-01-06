@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    
+    <link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="bower_components/simple/stylesheets/screen.css" />
+    <link rel="stylesheet" href="lib/css/simple-map-d3.css">
+    
+    
+    
+    <title>D3 kaart</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>D3 opdracht</h1>
+      <div>
+        <h4>Populatie in Europa.</h4>
+      </div>
+      
+    </header>
+
+    <section>
+    
+    
+
+  
+      
+      <div class="simple-map-d3-europe-pop-map" style="background-color: #FFFFFF; width: 100%; height: 500px; border: 1px solid #898989; margin: 0 0 1em 0;"></div>
+      
+
+  
+
+      
+      <footer>
+       
+      </footer>
+    </section>
+
+    <script type="text/javascript" src="bower_components/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="bower_components/d3/d3.min.js"></script>
+    <script type="text/javascript" src="lib/js/simple-map-d3.js"></script>
+    
+    <script type="text/javascript">
+      (function($) {
+        $(document).ready(function() {
+          
+          
+          
+          
+          var europePopMap = SimpleMapD3({
+            container: '.simple-map-d3-europe-pop-map',
+            datasource: 'example-data/europe-population-density-geocommons.geo.json',
+            colorSet: 'Spectral',
+            colorOn: true,
+            colorProperty: 'population',
+            colorReverse: true,
+            projection: 'azimuthalEqualArea',
+            rotation: [0, 0, -20],
+            canvasDragOn: true,
+            tooltipContent: function(d) {
+              var p = d.properties;
+              return '<h5>' + p.country + '</h5>' +
+                p.population + ' population per square kilometer';
+            }
+          });
+          
+          
+        });
+      })(jQuery);
+    </script>
+    
+  </body>
+</html>

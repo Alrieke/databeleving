@@ -1,0 +1,77 @@
+
+
+
+/* BASIC HTML
+========================================================*/
+body {
+  background-color: #f7f7f7;
+  color: #666;
+  font-size: 65%;
+  line-height: 1.5;
+  font-family: 'PT Serif', serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: #ffc;
+}
+
+/* FONT STUFF, LINKS, LISTS & TABLES
+========================================================*/
+h1, h2, h3, h4, h5, h6 { 
+  color: #333; 
+  line-height: 1.2;
+  margin-bottom: 10px;
+}
+
+
+h1 {font-size: 4.8em;}
+h2 { font-size: 4em; }
+h3 { font-size: 3em; }
+h4 { font-size: 2.4em; }
+h5 { font-size: 2.2em; }
+h6, p, blockquote, dt, dd { font-size: 2em; }
+li {
+  font-size: 1.8em;
+  line-height: 1.2;
+}
+
+
+
+
+header {
+  display: inline-block;
+  width: 25%;
+  background: #ddd;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  border-right: 1px solid #bbb;
+  text-align: right;
+  padding: 30px;
+  box-shadow: 1px 0 10px rgba(0,0,0,0.35),
+              inset -1px 0 1px rgba(255,255,255,0.4);
+}
+
+header h1 {
+  text-shadow: 0 1px 1px #fff;
+}
+
+
+header ul li a:hover {
+  background: rgba(255,255,255,.5);
+}
+
+header h4 {
+  color: #666;
+  max-width: 350px;
+  display: inline-block;
+}
+section {
+  margin-left: 30%;
+  padding: 50px;
+  max-width: 600px;
+}
+
+
